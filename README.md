@@ -1,3 +1,4 @@
+#WEEK-1
 # Simple Python Calculator
 
 A basic command-line calculator that performs arithmetic operations based on user input.
