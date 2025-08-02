@@ -35,7 +35,19 @@ The program handles:
 - Non-numeric inputs (will raise ValueError)
 
 
+## How to Run
 
+Simply execute the Python file:
+```bash
+python week_1.py
+```
+
+## Possible Improvements
+
+Future versions could include:
+- Support for more operations (exponents, modulu
+s)                                              - Continuous calculations (keeping previous result)
+- Better handling of floating-point precision   - GUI interface
 
 # WEEK-2
 
@@ -75,21 +87,6 @@ Index of 30: 3
 ## Requirements
 
 - Python 3.x
-
-## How to Run
-
-Simply execute the Python file:
-```bash
-python week_1.py
-```
-
-## Possible Improvements
-
-Future versions could include:
-- Support for more operations (exponents, modulus)
-- Continuous calculations (keeping previous result)
-- Better handling of floating-point precision
-- GUI interface
 
 ## License
 
