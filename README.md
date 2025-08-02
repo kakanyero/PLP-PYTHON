@@ -1,4 +1,4 @@
-#WEEK-1
+# WEEK-1
 # Simple Python Calculator
 
 A basic command-line calculator that performs arithmetic operations based on user input.
@@ -33,6 +33,44 @@ The program handles:
 - Invalid operations (shows error message)
 - Division by zero (shows error message)
 - Non-numeric inputs (will raise ValueError)
+
+
+
+
+# WEEK-2
+
+
+# List Operations in Python
+
+This Python script demonstrates various list operations, including appending, inserting, extending, removing, sorting, and searching for elements.
+
+## Code Overview
+
+The script performs the following operations on a list named `my_list`:
+
+1. **Creates an empty list**
+2. **Appends elements** (`10, 20, 30, 40`)
+3. **Inserts an element** (`15` at the second position)
+4. **Extends the list** with `[50, 60, 70]`
+5. **Removes the last element**
+6. **Sorts the list** in ascending order
+7. **Finds the index** of the value `30`
+
+## Final Output
+
+After executing all operations, the index of `30` is printed:
+
+```python
+Index of 30: 3
+```
+
+## How to Run
+
+1. Save the script as week_2.py`.
+2. Execute it using Python
+
+
+
 
 ## Requirements
 
