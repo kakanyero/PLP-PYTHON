@@ -1,4 +1,3 @@
-
 #questiin 1
 
 def calculate_discount(price, discount_percent):
